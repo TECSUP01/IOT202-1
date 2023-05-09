@@ -7,7 +7,7 @@
 #include "Adafruit_BME680.h"
 
 #define WIFI_SSID "Theo"
-#define WIFI_PASSWORD "123123123"
+#define WIFI_PASSWORD ""
 
 // Raspberry Pi Mosquitto MQTT Broker
 //#define MQTT_HOST IPAddress(192, 168, 1, 10)
